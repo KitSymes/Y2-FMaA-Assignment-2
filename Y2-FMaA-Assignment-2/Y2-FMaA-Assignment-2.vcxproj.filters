@@ -18,5 +18,8 @@
     <ClCompile Include="Y2-FMaA-Assignment-2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Problem 1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
